@@ -30,7 +30,7 @@ export class AppComponent implements AfterViewInit {
       },
       title:
         '<iframe title="Environment Canada Weather" width="287px" height="191px"' +
-        ' src="https://weather.gc.ca/wxlink/wxlink.html?cityCode=bc-26&amp;lang=e" allowtransparency="true" frameborder="0"></iframe>',
+        ' src="https://weather.gc.ca/wxlink/wxlink.html?cityCode=bc-14&amp;lang=e" allowtransparency="true" frameborder="0"></iframe>',
     },
     {
       position: new google.maps.LatLng(49.271747, -122.971378),
