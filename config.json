@@ -1,0 +1,6 @@
+{
+    "install": "npm install",
+    "run": "ng serve",
+    "test": "ng test",
+    "port": 4200
+}
